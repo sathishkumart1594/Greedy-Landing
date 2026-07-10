@@ -102,7 +102,7 @@ const Navbar = ({ onOpenCheckup }: NavbarProps) => {
         <a
           href="#home"
           aria-label="Greedy home"
-          className="flex h-10 w-[52px] items-center justify-center rounded-sm bg-[#00bf7d] font-medium text-[#111827]"
+          className="flex h-10 w-[52px] items-center justify-center rounded-sm bg-[#00bf7d] font-medium text-[#111827] relative pl-10"
         >
           LOGO
         </a>
@@ -122,7 +122,7 @@ const Navbar = ({ onOpenCheckup }: NavbarProps) => {
 
           {/* DESKTOP SERVICES */}
 
-          <div ref={desktopDropdownRef} className="relative">
+          <div ref={desktopDropdownRef} className="relative pl-1">
             <button
               type="button"
               aria-expanded={servicesOpen}
@@ -167,6 +167,7 @@ const Navbar = ({ onOpenCheckup }: NavbarProps) => {
       : "Switch to dark mode"
   }
   className="
+    
     flex
     h-10
     w-10
@@ -182,7 +183,7 @@ const Navbar = ({ onOpenCheckup }: NavbarProps) => {
     hover:text-white
   "
 >
-  {isDarkMode ? "☀" : "☾"}
+  {isDarkMode ? "☀️" : "🌛"}
 </button>
 
         <button
