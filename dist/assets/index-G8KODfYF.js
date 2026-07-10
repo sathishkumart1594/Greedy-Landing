@@ -505,8 +505,47 @@ Error generating stack: `+e.message+`
               lg:max-w-none\r
 \r
               xl:w-[610px]\r
-            `})})]})}),me=`/assets/Card1-C8Y1S22f.png`,D=`/assets/Card2-BxA6NOiL.png`,O=`/assets/Card3-knCzriq_.png`,he=`/assets/Card4-CLdQY3c7.png`,ge=`/assets/Mask%20Group-BGG60LAw.png`,_e=[{id:1,image:me,alt:`We are commerce first`},{id:2,image:D,alt:`Our focus is on growth`},{id:3,image:O,alt:`Transparency`},{id:4,image:he,alt:`We're experts`}],ve=()=>(0,p.jsx)(`section`,{className:`\r
-        bg-[#d5e7e0]\r
+            `})})]})}),me=`/assets/Mask%20Group-BGG60LAw.png`,D=[{title:`We are commerce first`,description:`We are improving businesses based on our vast experience.`,icon:`data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAmCAYAAABQ3RJZAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAA9BJREFUeAHtWd1OE0EU/s6Wn5bwU9SowSiL3EN5AsqNVr2gfQLqE7B4LekSId7Z5QmEJwAvTLmjvkHxxsQEu8TE+BuLiZCA7HhmF2pLt9ttgZYmfmG2szOH3a9nvpk5c0pY08LoQQqgJATCaC1yECKBB4bpZUTIaCsgmuFaARa20EoQJvlqYl9MIGEUqpl1QKFp9rCJ++kRtBqZJzpIpBBEnO9WqpkptiSE2MGlgGX6seqoaMloKn+VNQjy0ncBsfRE1V5HcjzUIouY8dhu29A2efxVWGIZDw2j7D1CLLCOV+ATSkVLkAkJIh4Br7Lr+VSigm1X9ngatNvoeLKXv6eAOlDp6Sl7AkRwFsTSGl+1U22R83qPgjaE42micUdzrQapfqxO5ME6oyjaBA5pId7w7I2i1choSR71l7XM2lLTbTwR/SKjRfkqi8klWyuwuSj4Iy0jwRDvXuWT1cRrLYFHRg5Nhj95BGHYhInWOaBJcMsyFxUBWkML4M/TxUjwReK4ZR2ZuTBvwDPs7UizvV2d9IamFQ8FzmeBNa0X+wnD9mdASXH7SRy+chad370zMP177xChUOek6RGaupO2JxylZchTApXlkao0FnFujztVIa86GsDYzlKKLBHv6+mUt8mx7cWtt6NPDTdbb00LrDKRqeO7nF0vFu6TkKGmJebQICJ5PTyWX0wzYb20nRSkx/JLKbf/qaFpYfJwZ7ExJ724a9dP4IyG/JN6NuET4/nFTWHxDgwOXyFUjkxnCO5nU45Z9fH8s6Sw8IrvTLYPk0KTftdpkz17erJl+amz3J6FlI5/RPnF0RNatUEqe3221N4f6ZjL+dHx+qBdl6eQJuJ/7NEsXFrSn77u4d0H96PjpST95ccevv3cRyDgPlHri/IuCEdHAu93dnFloJs3WODz9310dSpQh3pd7b1JNzW3J5jsHpMmu4ze7mfiAVdLd9JBXpMPONZQOMe3oZk18xJEzjqqoKHAScpAktz++AsHhxbUW31VCVcnLXMSGW3OOa9VxCDukFmimLHuw1I6oGIEJUlJXEolFPQUQK56r0xTZbQsey/C2VRvmQTYw/f8hae8ha/yjjjr1md7t7PmI3LemnbCTBPnCEXBOseCs2gQhD8LTV/yciPzWQ6EFtAAOBJcyI3opmIn02WGSZ4DmwQmrgsZ0tYBm/DovG7Xi4lsSb7O7OVZcfNaj3rjaqiWWYHXAfbwvwOBsy44xOOt+M2luyuAoes96O/tGj7dJzjzpdBRUkqitN3PYtYURPLPVUsc6az3CJ/asnLCSv272f4FNhZTwQWWSg8AAAAASUVORK5CYII=`,highlighted:!0},{title:`Our focus is on growth`,description:`Our main goal is to make your online store better every day.`,icon:`data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAmCAYAAABQ3RJZAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAA2pJREFUeAHtmU1SE1EQx/8v38FAEtHCj1IHXagr5QTGjcpKuQFHGE5APIFzA/EElhsBN5EbxJUrJRRVCCgkhBCSwOTZ3ZPBQGGZMBNqLP1VzedLZv6vp1/3mx6FbhbNWUCZ0MggOJSg9ByeWi/dE+qoadF8BU2CFSpo4xOCgsItWhsk3CLhM84pZt6kk2oZ3Kt9PYEpqwIvvDUzSNDTmrRK8EqBrtVSBXr6D6H1OF8z1GkyZK31G8+CmSG6CRthwSzAK49JT1u/6xwZvIpgEHDnNbmYDhUxAAYj+pllYYAcF63ULBZmZhFwTlq6RI91BUHDjSAdjotmX5y08gga82ZevKBDCH8h/0WfFz2FvHvLeQPnQAKoFMfzf0xuPYmOI/KaNjkMmLbWS73c59/26f3mIXZqLbQO2hg0vqTxja061n/sy34sGoZxPYVkPCIdWF2v4VI2gXQqBr/wbGkWxoJj0ZCIax3YWNusS9v2TgO1+gFs21/re7Z0rd6S7djoEC6m49irH4pQplxtSWfSw3H4iWdLh0POJRrk02x1u61F6PZOU6x+YShKv1HwE8+WTpEoFvm93JCFYauXq87+ldEk/Maz6HBY4c6NEfFr29bkClHqSEwG54VkVAam3/gSPVjYzaupo+PVbzXZXs7Gxb954d+wz/uB728u7Nfb1aa4DE0n8WW1etRWpvP8VLzie0Z0I8cY+bIb+oxrw+L7rtW94rvojS0nybBIiR7k1+nhGLIjTnLxI2P6KpqtyEKz5Lvsw8l4GI0WpffdFqo1x8LiNh7xVTTH4wQJdcMchz6OKKW1XZmXZEfi8gS8EpFqUESlYdMR1/C42nSCRtNG6DcJottyyUQEd41fZUB2i/u3M5JouI3nH5x8uCOnonX6tPuLLuf20qaoZLCMrjfdfmE3YGG98vlrRVzIAyUOeQakdCAT8P5Q6hEJMDgT9jKLq9aaruAi3a//ImdIPSerG06c1nqFSgfT6JcPJhUFVWFtcy9DS2//kaqsnjpTcXJhhmuDOW/J5YlVJB+coL1p9OJimgQrWF6rqRHpuaKBeFYcAXmcIyHqfVFqv/NmDkHmvfkC/NJLY0+5ful8stAfwYMyeBg0GHKyR4V1J/qx8Laao70HCCoaSwhrk8fR8YzhfnYIGg0ad11fKH4C0B9WrNoCiUAAAAAASUVORK5CYII=`},{title:`Transparency`,description:`You can follow all our steps due to strategy and be a part of changes.`,icon:`data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAtCAYAAADV2ImkAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAABDxJREFUeAHtWc1u20YQnllKqus4jty6TYqgrRyfAhS23sDyqQh6qPIEVp6gUs8JLCE2ehT7BLGfoPaldk5Vn6Ay0FsQSEEBo01/IrSNHcQiJzPLH0eyJJIWGfngT6ConZ1ZfTu7OztcIoTFXjkHCtaAsMSlnCttAhBfkAXAvJYjdIBYRrDN5QbcMdsQIzCU1n65zKp114IJwTO+E3/yfZoH7n3ZvbeZfI1Jb0FMUIEaj8t1l6z8+T04ogW+F5lsVtcj7ug6BwTHVOD6BbCpwp3Kcv0j+FE6HA9Ge3ivXNJ/KEN/TKtw1+xo+X6lBTL8jveqjm5li1tbAyQTvjQrrj1PEfzJ1V1l3QaMidEeRlwHx7N3fbLSCT2HccsnK7hT585xxwjLrFNwZKYzKrotWIcYMJzw43LRJda7cBDX9J3s2hkbmQa6Doq+zPEqX1jQHk+MMEHBJbbdVyNz9OeBq39KogbDwJW+xnZ92zExinDW/dX2Zb6HsDPQZtV0Isipravut5GDMREcJQYB6UUkfRs6EBNS+nvw3PK8lON68H97dUHz8e36FF4DC5xRG2QXYXNBP0RNEgS7HGWKYVTFw852avu7lHTjc3A6ccCN9Q4nwsoZ/SAouObuim09x/vbA8qGbcqZEjYd8LAUfOleuapjMFG5J9jr4cQWy3dYfg/CQuKybCBE2z2xW7BfIYiA8y26CeKScNKIRniKF5uXXkbBaRxuw5iIRlh2Mkkv+xdOEL4yJdubiyMvjj4lvKztXdn14XLRRcFya+OX27fm4PbiByvLrc0fwthMjPDSs01J6POZtAK5eLcrLj3dCHyUmgjhpdZGHW2q9stRQX2ptTnyySQFCeGLJw8LiJSzbKNpp0866iSdTRlUQIXfsDdzw+z4Yby63HpYsi2qebYiz9ipolLdncQII6qcMugRX6D9kvZShjCpA7ItntoKZC50jeZllEgal4STxoUi/PrEhsPnL8Gyhy/MC0NYyD797V/488UrOH7VHap3YQi3D/9j0hZc/3AaZqbTQ/UmQtiyCH598g/88fexLh8+P9JenZ3JwI3590faJrZxBMEwEH7/6wj+PzrRl+QTn30yE2g3EQ8L2cVPZzVJj6yUDRV8vp6gh+3OqOPnTNrQJGWRfTQ3pcthkBhhw7AaFNC8kLz58RUIjZSVXC7RXKhKltWA+LAlbSY6hzlVrEFMQOjqthzCik8XE0Bz4UGDnNdfY4GT/Rp7ty2/hXBDH9TFcJw/CAq78tjThHMCucPNxQdVv+wf1OlDDvpen1Yq9bV+tWVzGc//Zx7ey6jszetX169eSYc+pfTJ3rpf6pHp771v+bSSYnnLMwo35qdhnkNYiHjbYQ2eBvfN/opTS+fVbJ6PlSJ5ISqys1Oyo/HzHqzBQKI8qmCZbpQ5g3CvbhNAvvVdjh/SSgSKiZMQ3R1F1MMbfmOPhyrgJsUAAAAASUVORK5CYII=`},{title:`We're experts`,description:`The team of experts includes business owners and advisers.`,icon:`data:image/png;base64,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`}],O=({reason:e})=>(0,p.jsxs)(`div`,{className:`
+        w-full
+        min-h-[150px]
+        rounded-[4px]
+        p-5
+
+        ${e.highlighted?`
+              border
+              border-[#d9f7e9]
+              bg-white
+              shadow-[0_6px_16px_4px_rgba(47,223,132,0.15)]
+
+              dark:border-[#16483d]
+              dark:bg-[#172033]
+              dark:shadow-[0_6px_16px_4px_rgba(47,223,132,0.12)]
+            `:`
+              border
+              border-transparent
+              bg-transparent
+            `}
+      `,children:[(0,p.jsx)(`img`,{src:e.icon,alt:``,"aria-hidden":`true`,className:`\r
+          h-[38px]\r
+          w-[38px]\r
+          object-contain\r
+        `}),(0,p.jsx)(`h3`,{className:`\r
+          mt-5\r
+          text-[16px]\r
+          font-semibold\r
+          leading-[1.3]\r
+          text-[#111827]\r
+\r
+          dark:text-white\r
+        `,children:e.title}),(0,p.jsx)(`p`,{className:`\r
+          mt-3\r
+          text-[13px]\r
+          leading-[1.65]\r
+          text-[#374151]\r
+\r
+          dark:text-[#cbd5e1]\r
+        `,children:e.description})]}),he=()=>(0,p.jsx)(`section`,{id:`who-we-are`,className:`\r
+        bg-[#f1faf7]\r
         px-5\r
         py-16\r
 \r
@@ -516,88 +555,61 @@ Error generating stack: `+e.message+`
         lg:py-24\r
 \r
         dark:bg-[#111827]\r
-      `,children:(0,p.jsx)(`div`,{className:`mx-auto max-w-[1200px]`,children:(0,p.jsxs)(`div`,{className:`\r
+      `,children:(0,p.jsx)(`div`,{className:`mx-auto max-w-[1050px]`,children:(0,p.jsxs)(`div`,{className:`\r
             grid\r
-            items-center\r
-            gap-12\r
+            items-start\r
+            gap-10\r
 \r
-            lg:grid-cols-[1.15fr_0.85fr]\r
-            lg:gap-20\r
+            lg:grid-cols-[1fr_360px]\r
+            lg:gap-14\r
           `,children:[(0,p.jsxs)(`div`,{children:[(0,p.jsx)(`h2`,{className:`\r
-                max-w-[540px]\r
+                max-w-[500px]\r
                 text-[30px]\r
                 font-semibold\r
                 leading-[1.25]\r
                 tracking-[-0.02em]\r
                 text-[#111827]\r
 \r
-                sm:text-[36px]\r
-\r
-                lg:text-[40px]\r
+                sm:text-[34px]\r
 \r
                 dark:text-white\r
               `,children:`Why top Ecommerce and startup companies choose us:`}),(0,p.jsx)(`div`,{className:`\r
                 mt-10\r
                 grid\r
                 grid-cols-1\r
-                gap-x-8\r
-                gap-y-8\r
+                items-start\r
+                gap-x-5\r
+                gap-y-5\r
 \r
                 sm:grid-cols-2\r
-\r
-                lg:mt-12\r
-              `,children:_e.map(e=>(0,p.jsx)(`div`,{className:`\r
-                    flex\r
-                    min-w-0\r
-                    items-start\r
-\r
-                    dark:[&>img]:brightness-100\r
-                  `,children:(0,p.jsx)(`img`,{src:e.image,alt:e.alt,className:`\r
-                      h-auto\r
-                      w-full\r
-                      max-w-[355px]\r
-                      object-contain\r
-                    `})},e.id))}),(0,p.jsx)(`a`,{href:`#what-we-do`,className:`\r
-                mt-10\r
+              `,children:D.map(e=>(0,p.jsx)(O,{reason:e},e.title))}),(0,p.jsxs)(`a`,{href:`#contact`,className:`\r
+                mt-6\r
                 inline-flex\r
-                min-h-12\r
+                min-h-10\r
                 items-center\r
                 justify-center\r
-                rounded-sm\r
+                gap-3\r
+                rounded-[2px]\r
                 bg-[#00bf7d]\r
-                px-7\r
-                text-[15px]\r
+                px-5\r
+                text-[13px]\r
                 font-semibold\r
                 text-white\r
                 transition-colors\r
-                duration-200\r
 \r
                 hover:bg-[#00a96f]\r
-\r
-                focus-visible:outline-none\r
-                focus-visible:ring-2\r
-                focus-visible:ring-[#00bf7d]\r
-                focus-visible:ring-offset-4\r
-\r
-                dark:focus-visible:ring-offset-[#111827]\r
-              `,children:`Let's talk`})]}),(0,p.jsx)(`div`,{className:`\r
+              `,children:[`Let's Chat`,(0,p.jsx)(`span`,{"aria-hidden":`true`,children:`→`})]})]}),(0,p.jsx)(`div`,{className:`\r
               flex\r
-              min-w-0\r
-              items-center\r
               justify-center\r
 \r
-              lg:justify-end\r
-            `,children:(0,p.jsx)(`img`,{src:ge,alt:`Business professional working at a desktop computer`,className:`\r
+              lg:pt-[68px]\r
+            `,children:(0,p.jsx)(`img`,{src:me,alt:`Person working at a computer workspace`,className:`\r
                 h-auto\r
                 w-full\r
-                max-w-[480px]\r
-                rounded-[20px]\r
-                object-cover\r
-\r
-                lg:max-w-[420px]\r
-\r
-                xl:max-w-[460px]\r
-              `})})]})})}),ye=[{id:1,image:`/assets/Group%2017-cKXhbw7O.png`,alt:`534 percent People Reached`},{id:2,image:`data:image/png;base64,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`,alt:`215 percent Client Boost`},{id:3,image:`data:image/png;base64,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`,alt:`379 Website Launch`},{id:4,image:`/assets/Group%2019-Z8KIwF3s.png`,alt:`801 percent Company Expansion`}],be=()=>(0,p.jsx)(`section`,{className:`\r
+                max-w-[360px]\r
+                rounded-[18px]\r
+                object-contain\r
+              `})})]})})}),ge=[{id:1,image:`/assets/Group%2017-cKXhbw7O.png`,alt:`534 percent People Reached`},{id:2,image:`data:image/png;base64,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`,alt:`215 percent Client Boost`},{id:3,image:`data:image/png;base64,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`,alt:`379 Website Launch`},{id:4,image:`/assets/Group%2019-Z8KIwF3s.png`,alt:`801 percent Company Expansion`}],_e=()=>(0,p.jsx)(`section`,{className:`\r
         bg-white\r
         px-5\r
         py-16\r
@@ -641,7 +653,7 @@ Error generating stack: `+e.message+`
               md:gap-8\r
 \r
               lg:mt-12\r
-            `,children:ye.map(e=>(0,p.jsx)(`div`,{className:`flex min-w-0 justify-center`,children:(0,p.jsx)(`img`,{src:e.image,alt:e.alt,className:`\r
+            `,children:ge.map(e=>(0,p.jsx)(`div`,{className:`flex min-w-0 justify-center`,children:(0,p.jsx)(`img`,{src:e.image,alt:e.alt,className:`\r
                     h-auto\r
                     w-full\r
                     max-w-[180px]\r
@@ -650,67 +662,85 @@ Error generating stack: `+e.message+`
                     md:max-w-[190px]\r
 \r
                     lg:max-w-[210px]\r
-                  `})},e.id))})]})})}),xe=[{id:1,title:`Good Design Increases Sales`,image:`/assets/Group%20104-DLteZq6e.png`,imageAlt:`Design workspace and ecommerce website interface`,imagePosition:`left`,features:[{image:`/assets/Card%20-%20strategy-DrH_mkdC.png`,alt:`Strategy and Research`},{image:`/assets/Card%20-%20strategy1-bqm4Zbeh.png`,alt:`Development`},{image:`/assets/Card%20-%20strategy2-KP5_tTbH.png`,alt:`Strategy and visual design`},{image:`/assets/Card%20-%20strategy3-eosuZcGt.png`,alt:`Conversion optimization`}]},{id:2,title:`Get More Customers with Google Ads`,image:`/assets/Group%20105-jjP5xJg_.png`,imageAlt:`Marketing team and Google Ads campaign interface`,imagePosition:`right`,features:[{image:`/assets/Card%20-%20strategy4-D3Tzeqyb.png`,alt:`Campaign development`},{image:`/assets/Card%20-%20strategy5-D5MvL2m3.png`,alt:`Campaign launch`},{image:`/assets/Card%20-%20strategy6-55KVPTKk.png`,alt:`Optimization`},{image:`/assets/Card%20-%20strategy7-DRm7OhiF.png`,alt:`Measurement`}]},{id:3,title:`Show Up when People Search for What You Sell`,image:`/assets/Group%20106-DO1McCtD.png`,imageAlt:`Google search interface and Google office building`,imagePosition:`left`,features:[{image:`/assets/Card%20-%20strategy8-CxvB-1H1.png`,alt:`SEO audit`},{image:`/assets/Card%20-%20strategy9-BwguMFn_.png`,alt:`On-page SEO`},{image:`/assets/Card%20-%20strategy10-D-c8KJ6t.png`,alt:`Targeted content`},{image:`/assets/Card%20-%20strategy11-jjbZm3wP.png`,alt:`Off-page SEO`}]},{id:4,title:`Grow Your Business with Social Media`,image:`/assets/Group%20107-CK3JxdmX.png`,imageAlt:`Social media marketing interfaces and business team`,imagePosition:`right`,features:[{image:`/assets/Card%20-%20strategy12-DbZdLgsR.png`,alt:`Authentic storytelling`},{image:`/assets/Card%20-%20strategy13-DtccYyqU.png`,alt:`Optimized ads`},{image:`/assets/Card%20-%20strategy14-qNnSveZG.png`,alt:`Community Engagement`},{image:`/assets/Card%20-%20strategy15-BcaakChi.png`,alt:`Fostering Growth`}]}],Se=({service:e})=>{let t=e.imagePosition===`right`;return(0,p.jsxs)(`article`,{className:`\r
+                  `})},e.id))})]})})}),ve=`/assets/Group%20104-DLteZq6e.png`,ye=`/assets/Group%20105-jjP5xJg_.png`,be=`/assets/Group%20106-DO1McCtD.png`,xe=`/assets/Group%20107-CK3JxdmX.png`,Se=`data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAOdEVYdFNvZnR3YXJlAEZpZ21hnrGWYwAAAd1JREFUeAHtma9LBEEUx79vdg9dQfSC1R9Vg4fRpFEQNPgnGIw2o1osFhUEQaPRcEEwiRYNBlkUDBZ/BI13csIqu/qcd9zJKQZhb+duYD6wsDNvwofHMPD4En5RiSoT8LxZUjQDxiBaBoVgDuMPrOaD4P5Hpf5TYu7NJe/LAC+i7eCN2A9W80RlWVWla8InulhA20Jh7HdMiriSZa3DbSwscCGXRMvyRyWOBnMJ7mAJjGRSefHnCmyCvVmlyBuFRRBohl7jiGEZChbipE3hpE3hpE3hpP/DS/KGtBiVfnwrYfxiCyPn60iDMWkRnrrcxUNU1gMJUmFEulG4vzOPo7F5pCFz6b+EB4I80pBaevvxDEu3h3/WshAWfKRk7e64+iLItzM8972flbCQutMi0+N3Yv/5Egs3B9W9LIWFpgwBV5UnLblX7fZ03zCuX58yExaaNrk0igtZCQtNHbfq4j1+kJmw0PQZsVzrdK++51nhBltTOGlTOGlTOGlTOGlTqE/mB1gFh0onRUVYBDGFVImjCS1+AkvwEgyp7lxwyuBNWAAzbwY6CLUmR9RZS9ilc0Sq54gSKEqw2K4dlw7XhWVNvw9EOlf80DEdgwr6UMuSL3nVdEeLTFSUK9xY+wIh9PT9/OgDmgAAAABJRU5ErkJggg==`,Ce=[{id:1,title:`Good Design Increases Sales`,image:ve,imageAlt:`Design workspace and ecommerce website interface`,imagePosition:`left`,features:[{title:`Strategy and Research`,description:`Based on deep researching we create the best strategy due to your needs.`},{title:`Development`,description:`We create the best solution relying on own platforms, the experience of our partners and modern tendency.`,highlighted:!0},{title:`Strategy & visual design`,description:`It is possible to see the future result with the prognosticate ground plan.`},{title:`Conversion optimization`,description:`We teach your call-center team how to talk efficiently to your clients.`}]},{id:2,title:`Get More Customers with Google Ads`,image:ye,imageAlt:`Marketing team and Google Ads campaign interface`,imagePosition:`right`,features:[{title:`Campaign development`,description:`Create your unique advertisement easily without extra time or money.`},{title:`Campaign launch`,description:`Start your commerce with the social media announcement. Get more client without much effort.`,highlighted:!0},{title:`Optimization`,description:`Save your money with the simple upgrades and enjoy your profit instantly.`},{title:`Measurement`,description:`Discover the website activity with the analytics tools simply and unmistakably.`}]},{id:3,title:`Show Up when People Search for What You Sell`,image:be,imageAlt:`Google search interface and Google office building`,imagePosition:`left`,features:[{title:`SEO audit`,description:`Analyze your next steps and in which way it will have impact on the selling results.`},{title:`On-page SEO`,description:`Optimize every word on your page for increasing the sales and reach the top of Google searching.`},{title:`Targeted content`,description:`The targeting content helps you to push ahead less popular categories of goods.`,highlighted:!0},{title:`Off-page SEO`,description:`This strategy helps you to increase the trust level to your online store.`}]},{id:4,title:`Grow Your Business with Social Media`,image:xe,imageAlt:`Social media marketing interfaces and business team`,imagePosition:`right`,features:[{title:`Authentic storytelling`,description:`Tell your clients which were your first steps and failures in this business.`},{title:`Optimized ads`,description:`Optimize every word on your page for increasing the sales and reach the top of Google searching.`},{title:`Community Engagement`,description:`Develop business with similar companies or partners.`},{title:`Fostering Growth`,description:`The accent on social media activities increases the number of your clients.`,highlighted:!0}]}],we=({feature:e})=>(0,p.jsxs)(`div`,{className:`
+        w-full
+        max-w-[320px]
+        min-h-[190px]
+        rounded-[4px]
+        px-1
+        py-2
+
+        bg-white
+        text-[#111827]
+
+        dark:bg-[#111827]
+        dark:text-white
+
+        ${e.highlighted?`
+              border
+              border-[#d9f7e9]
+              px-6
+              py-6
+
+              shadow-[0_6px_16px_4px_rgba(47,223,132,0.15)]
+
+              dark:border-[#16483d]
+              dark:bg-[#172033]
+              dark:shadow-[0_6px_16px_4px_rgba(47,223,132,0.12)]
+            `:``}
+      `,children:[(0,p.jsxs)(`div`,{className:`flex items-start gap-5`,children:[(0,p.jsx)(`img`,{src:Se,alt:``,"aria-hidden":`true`,className:`h-[46px] w-[46px] shrink-0 object-contain`}),(0,p.jsx)(`h4`,{className:`\r
+           pt-1\r
+           text-[16px]\r
+           font-semibold\r
+           leading-[1.3]\r
+         text-[#111827]\r
+\r
+         dark:text-white\r
+        `,children:e.title})]}),(0,p.jsx)(`p`,{className:`\r
+          mt-4\r
+          text-[14px]\r
+          leading-[1.7]\r
+          text-[#374151]\r
+\r
+          dark:text-[#cbd5e1]\r
+        `,children:e.description})]}),Te=({service:e})=>{let t=e.imagePosition===`right`;return(0,p.jsxs)(`article`,{className:`\r
         grid\r
         items-center\r
-        gap-12\r
+        gap-10\r
 \r
         lg:grid-cols-2\r
-        lg:gap-20\r
+        lg:gap-12\r
       `,children:[(0,p.jsx)(`div`,{className:`
           flex
-          min-w-0
           justify-center
 
-          ${t?`lg:order-2 lg:justify-end`:`lg:order-1 lg:justify-start`}
+          ${t?`lg:order-2`:`lg:order-1`}
         `,children:(0,p.jsx)(`img`,{src:e.image,alt:e.imageAlt,className:`\r
             h-auto\r
             w-full\r
-            max-w-[480px]\r
+            max-w-[430px]\r
             object-contain\r
-\r
-            sm:max-w-[520px]\r
-\r
-            lg:max-w-[500px]\r
-\r
-            xl:max-w-[540px]\r
           `})}),(0,p.jsxs)(`div`,{className:`
-          min-w-0
-
           ${t?`lg:order-1`:`lg:order-2`}
         `,children:[(0,p.jsx)(`h3`,{className:`\r
-            max-w-[440px]\r
-            text-[28px]\r
+            max-w-[350px]\r
+            text-[26px]\r
             font-semibold\r
             leading-[1.2]\r
             tracking-[-0.02em]\r
             text-[#111827]\r
 \r
-            sm:text-[32px]\r
-\r
-            lg:text-[36px]\r
+            md:text-[28px]\r
 \r
             dark:text-white\r
           `,children:e.title}),(0,p.jsx)(`div`,{className:`\r
-            mt-8\r
+            mt-6\r
             grid\r
             grid-cols-1\r
-            gap-x-7\r
-            gap-y-7\r
+            gap-4\r
 \r
             sm:grid-cols-2\r
-\r
-            lg:mt-10\r
-          `,children:e.features.map(e=>(0,p.jsx)(`div`,{className:`\r
-                flex\r
-                min-w-0\r
-                items-start\r
-              `,children:(0,p.jsx)(`img`,{src:e.image,alt:e.alt,className:`\r
-                  h-auto\r
-                  w-full\r
-                  max-w-[355px]\r
-                  object-contain\r
-                `})},e.alt))})]})]})},Ce=()=>(0,p.jsx)(`section`,{id:`what-we-do`,className:`\r
+          `,children:e.features.map(e=>(0,p.jsx)(we,{feature:e},e.title))})]})]})},Ee=()=>(0,p.jsx)(`section`,{id:`what-we-do`,className:`\r
         overflow-hidden\r
         bg-white\r
         px-5\r
@@ -722,36 +752,33 @@ Error generating stack: `+e.message+`
         lg:py-24\r
 \r
         dark:bg-[#111827]\r
-      `,children:(0,p.jsxs)(`div`,{className:`mx-auto max-w-[1200px]`,children:[(0,p.jsxs)(`div`,{className:`text-center`,children:[(0,p.jsx)(`h2`,{className:`\r
-              text-[32px]\r
+      `,children:(0,p.jsxs)(`div`,{className:`mx-auto max-w-[1050px]`,children:[(0,p.jsxs)(`div`,{className:`text-center`,children:[(0,p.jsx)(`h2`,{className:`\r
+              text-[30px]\r
               font-semibold\r
               tracking-[-0.02em]\r
               text-[#111827]\r
 \r
-              sm:text-[38px]\r
-\r
-              lg:text-[42px]\r
+              sm:text-[34px]\r
 \r
               dark:text-white\r
             `,children:`What We Do`}),(0,p.jsx)(`p`,{className:`\r
               mx-auto\r
-              mt-4\r
+              mt-3\r
               max-w-[620px]\r
-              text-[16px]\r
+              text-[15px]\r
               leading-7\r
               text-[#4b5563]\r
 \r
               dark:text-[#cbd5e1]\r
             `,children:`We provide innovative digital marketing solutions that help your business grow, reach more customers, and increase online sales.`})]}),(0,p.jsx)(`div`,{className:`\r
             mt-16\r
-            space-y-24\r
+            space-y-20\r
 \r
             md:mt-20\r
-            md:space-y-28\r
+            md:space-y-24\r
 \r
-            lg:mt-24\r
-            lg:space-y-36\r
-          `,children:xe.map(e=>(0,p.jsx)(Se,{service:e},e.id))})]})}),we=`/assets/Mask%20Group1-BvP0DVzx.png`,Te=()=>(0,p.jsx)(`section`,{className:`bg-[#111827] px-5 py-12 md:px-8 md:py-16 lg:py-20`,children:(0,p.jsxs)(`div`,{className:`\r
+            lg:space-y-28\r
+          `,children:Ce.map(e=>(0,p.jsx)(Te,{service:e},e.id))})]})}),De=`/assets/Mask%20Group1-BvP0DVzx.png`,Oe=()=>(0,p.jsx)(`section`,{className:`bg-[#111827] px-5 py-12 md:px-8 md:py-16 lg:py-20`,children:(0,p.jsxs)(`div`,{className:`\r
           mx-auto\r
           grid\r
           max-w-[1200px]\r
@@ -762,7 +789,7 @@ Error generating stack: `+e.message+`
           md:gap-12\r
 \r
           lg:gap-20\r
-        `,children:[(0,p.jsx)(`div`,{className:`flex min-w-0 justify-center md:justify-start`,children:(0,p.jsx)(`img`,{src:we,alt:`Business team reviewing documents and planning a sales strategy`,className:`\r
+        `,children:[(0,p.jsx)(`div`,{className:`flex min-w-0 justify-center md:justify-start`,children:(0,p.jsx)(`img`,{src:De,alt:`Business team reviewing documents and planning a sales strategy`,className:`\r
               h-auto\r
               w-full\r
               max-w-[650px]\r
@@ -785,7 +812,7 @@ Error generating stack: `+e.message+`
               text-[16px]\r
               leading-7\r
               text-[#cbd5e1]\r
-            `,children:`We develop effective marketing strategies based on research, experience, and modern digital solutions to help your business attract more customers and increase sales.`})]})]})}),Ee=[{id:1,category:`Strategy`,title:`Online marketing step by step`,description:`Learn how to build an effective online marketing strategy and grow your business step by step.`,image:`/assets/Marketing1-DbqotI77.png`,imageAlt:`Smartphone displaying social media beside a laptop`},{id:2,category:`Strategy`,title:`Online marketing step by step`,description:`Use digital marketing tools and analytics to improve your campaigns and reach more customers.`,image:`/assets/Marketing2-TS41ieRq.png`,imageAlt:`Digital marketing analytics displayed on a laptop`},{id:3,category:`Marketing`,title:`Online marketing step by step`,description:`Measure campaign performance and use data-driven decisions to improve your online business.`,image:`/assets/Marketing3-rSgCt5YW.png`,imageAlt:`Business professional working with marketing software`}],De=()=>(0,p.jsx)(`section`,{className:`\r
+            `,children:`We develop effective marketing strategies based on research, experience, and modern digital solutions to help your business attract more customers and increase sales.`})]})]})}),ke=[{id:1,category:`Strategy`,title:`Online marketing step by step`,description:`Learn how to build an effective online marketing strategy and grow your business step by step.`,image:`/assets/Marketing1-DbqotI77.png`,imageAlt:`Smartphone displaying social media beside a laptop`},{id:2,category:`Strategy`,title:`Online marketing step by step`,description:`Use digital marketing tools and analytics to improve your campaigns and reach more customers.`,image:`/assets/Marketing2-TS41ieRq.png`,imageAlt:`Digital marketing analytics displayed on a laptop`},{id:3,category:`Marketing`,title:`Online marketing step by step`,description:`Measure campaign performance and use data-driven decisions to improve your online business.`,image:`/assets/Marketing3-rSgCt5YW.png`,imageAlt:`Business professional working with marketing software`}],Ae=()=>(0,p.jsx)(`section`,{className:`\r
         bg-white\r
         px-5\r
         py-16\r
@@ -826,7 +853,7 @@ Error generating stack: `+e.message+`
             md:grid-cols-2\r
 \r
             lg:grid-cols-3\r
-          `,children:Ee.map(e=>(0,p.jsxs)(`article`,{className:`\r
+          `,children:ke.map(e=>(0,p.jsxs)(`article`,{className:`\r
                 overflow-hidden\r
                 rounded-sm\r
                 border\r
@@ -892,7 +919,7 @@ Error generating stack: `+e.message+`
                     focus-visible:ring-offset-4\r
 \r
                     dark:focus-visible:ring-offset-[#111827]\r
-                  `,children:`Read more`})]})]},e.id))})]})}),Oe=[{id:1,quote:`The team helped us improve our online presence and reach more customers. Their marketing strategy made a real difference to our business.`,name:`John Carter`,role:`Business Owner`},{id:2,quote:`Working with this agency was a great experience. They understood our goals and delivered a strategy that helped our company grow.`,name:`Robert Wilson`,role:`Marketing Manager`},{id:3,quote:`Their team is professional, creative, and focused on results. We saw significant improvements in our online visibility and customer growth.`,name:`David Miller`,role:`Company Founder`}],ke=()=>(0,p.jsx)(`section`,{id:`reviews`,className:`\r
+                  `,children:`Read more`})]})]},e.id))})]})}),je=[{id:1,quote:`The team helped us improve our online presence and reach more customers. Their marketing strategy made a real difference to our business.`,name:`John Carter`,role:`Business Owner`},{id:2,quote:`Working with this agency was a great experience. They understood our goals and delivered a strategy that helped our company grow.`,name:`Robert Wilson`,role:`Marketing Manager`},{id:3,quote:`Their team is professional, creative, and focused on results. We saw significant improvements in our online visibility and customer growth.`,name:`David Miller`,role:`Company Founder`}],Me=()=>(0,p.jsx)(`section`,{id:`reviews`,className:`\r
         bg-white\r
         px-5\r
         py-16\r
@@ -931,7 +958,7 @@ Error generating stack: `+e.message+`
 \r
             md:grid-cols-3\r
             md:items-stretch\r
-          `,children:Oe.map((e,t)=>(0,p.jsxs)(`article`,{className:`
+          `,children:je.map((e,t)=>(0,p.jsxs)(`article`,{className:`
                 relative
                 flex
                 min-h-[260px]
@@ -997,7 +1024,7 @@ Error generating stack: `+e.message+`
                       text-[#6b7280]\r
 \r
                       dark:text-[#94a3b8]\r
-                    `,children:e.role})]})]})]},e.id))})]})}),Ae=()=>{let[e,t]=(0,f.useState)(``);return(0,p.jsx)(`section`,{className:`\r
+                    `,children:e.role})]})]})]},e.id))})]})}),Ne=()=>{let[e,t]=(0,f.useState)(``);return(0,p.jsx)(`section`,{className:`\r
         bg-white\r
         px-5\r
         py-16\r
@@ -1083,4 +1110,4 @@ Error generating stack: `+e.message+`
               sm:px-8\r
 \r
               dark:focus-visible:ring-offset-[#172033]\r
-            `,children:`Subscribe`})]})]})})};function je(){let[e,t]=(0,f.useState)(!1);return(0,p.jsxs)(p.Fragment,{children:[(0,p.jsx)(v,{onOpenCheckup:()=>t(!0)}),(0,p.jsxs)(`main`,{children:[(0,p.jsx)(T,{}),(0,p.jsx)(de,{}),(0,p.jsx)(pe,{}),(0,p.jsx)(ve,{}),(0,p.jsx)(be,{}),(0,p.jsx)(Ce,{}),(0,p.jsx)(Te,{}),(0,p.jsx)(De,{}),(0,p.jsx)(ke,{}),(0,p.jsx)(Ae,{})]}),(0,p.jsx)(ne,{}),(0,p.jsx)(se,{isOpen:e,onClose:()=>t(!1)})]})}(0,d.createRoot)(document.getElementById(`root`)).render((0,p.jsx)(f.StrictMode,{children:(0,p.jsx)(h,{children:(0,p.jsx)(je,{})})}));
+            `,children:`Subscribe`})]})]})})};function Pe(){let[e,t]=(0,f.useState)(!1);return(0,p.jsxs)(p.Fragment,{children:[(0,p.jsx)(v,{onOpenCheckup:()=>t(!0)}),(0,p.jsxs)(`main`,{children:[(0,p.jsx)(T,{}),(0,p.jsx)(de,{}),(0,p.jsx)(pe,{}),(0,p.jsx)(he,{}),(0,p.jsx)(_e,{}),(0,p.jsx)(Ee,{}),(0,p.jsx)(Oe,{}),(0,p.jsx)(Ae,{}),(0,p.jsx)(Me,{}),(0,p.jsx)(Ne,{})]}),(0,p.jsx)(ne,{}),(0,p.jsx)(se,{isOpen:e,onClose:()=>t(!1)})]})}(0,d.createRoot)(document.getElementById(`root`)).render((0,p.jsx)(f.StrictMode,{children:(0,p.jsx)(h,{children:(0,p.jsx)(Pe,{})})}));
